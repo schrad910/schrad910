@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @schrad910
-- 👀 I’m interested in microbial ecology, bioremediation, R, and biogeochemistry
-- 🐌 I am a PhD candidate at University of California, Santa Cruz
-- 📫 How to reach me: nicoleschrad@gmail.com
+- Hi, I’m @schrad910 (Nicole Schrad
+- I’m interested in microbial ecology, bioremediation, R, and biogeochemistry
+-I am a PhD candidate at University of California, Santa Cruz in Chad Salitkov's lab
+-How to reach me: nicoleschrad@gmail.com
